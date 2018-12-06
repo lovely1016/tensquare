@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MongoDemo/MongoDemo.iml" filepath="$PROJECT_DIR$/MongoDemo/MongoDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jjwt_demo/jjwt_demo.iml" filepath="$PROJECT_DIR$/jjwt_demo/jjwt_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq_demo/rabbitmq_demo.iml" filepath="$PROJECT_DIR$/rabbitmq_demo/rabbitmq_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tensquare.iml" filepath="$PROJECT_DIR$/.idea/tensquare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensquare_article/tensquare_article.iml" filepath="$PROJECT_DIR$/tensquare_article/tensquare_article.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensquare_base/tensquare_base.iml" filepath="$PROJECT_DIR$/tensquare_base/tensquare_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensquare_common/tensquare_common.iml" filepath="$PROJECT_DIR$/tensquare_common/tensquare_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensquare_config/tensquare_config.iml" filepath="$PROJECT_DIR$/tensquare_config/tensquare_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensquare_eureka/tensquare_eureka.iml" filepath="$PROJECT_DIR$/tensquare_eureka/tensquare_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensquare_friend/tensquare_friend.iml" filepath="$PROJECT_DIR$/tensquare_friend/tensquare_friend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensquare_gathering/tensquare_gathering.iml" filepath="$PROJECT_DIR$/tensquare_gathering/tensquare_gathering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensquare_manager/tensquare_manager.iml" filepath="$PROJECT_DIR$/tensquare_manager/tensquare_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensquare_parent/tensquare_parent.iml" filepath="$PROJECT_DIR$/tensquare_parent/tensquare_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensquare_qa/tensquare_qa.iml" filepath="$PROJECT_DIR$/tensquare_qa/tensquare_qa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensquare_recruit/tensquare_recruit.iml" filepath="$PROJECT_DIR$/tensquare_recruit/tensquare_recruit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensquare_search/tensquare_search.iml" filepath="$PROJECT_DIR$/tensquare_search/tensquare_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensquare_sms/tensquare_sms.iml" filepath="$PROJECT_DIR$/tensquare_sms/tensquare_sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensquare_spit/tensquare_spit.iml" filepath="$PROJECT_DIR$/tensquare_spit/tensquare_spit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensquare_user/tensquare_user.iml" filepath="$PROJECT_DIR$/tensquare_user/tensquare_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensquare_web/tensquare_web.iml" filepath="$PROJECT_DIR$/tensquare_web/tensquare_web.iml" />
+    </modules>
+  </component>
+</project>

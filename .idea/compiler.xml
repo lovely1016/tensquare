@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jjwt_demo" />
+        <module name="MongoDemo" />
+        <module name="rabbitmq_demo" />
+        <module name="tensquare_article" />
+        <module name="tensquare_base" />
+        <module name="tensquare_common" />
+        <module name="tensquare_config" />
+        <module name="tensquare_eureka" />
+        <module name="tensquare_friend" />
+        <module name="tensquare_gathering" />
+        <module name="tensquare_manager" />
+        <module name="tensquare_qa" />
+        <module name="tensquare_recruit" />
+        <module name="tensquare_search" />
+        <module name="tensquare_sms" />
+        <module name="tensquare_spit" />
+        <module name="tensquare_user" />
+        <module name="tensquare_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jjwt_demo" target="1.8" />
+      <module name="MongoDemo" target="1.8" />
+      <module name="rabbitmq_demo" target="1.8" />
+      <module name="RabbitMQDemo" target="1.8" />
+      <module name="tensquare_article" target="1.8" />
+      <module name="tensquare_base" target="1.8" />
+      <module name="tensquare_common" target="1.8" />
+      <module name="tensquare_config" target="1.8" />
+      <module name="tensquare_eureka" target="1.8" />
+      <module name="tensquare_friend" target="1.8" />
+      <module name="tensquare_gathering" target="1.8" />
+      <module name="tensquare_manager" target="1.8" />
+      <module name="tensquare_parent" target="1.8" />
+      <module name="tensquare_qa" target="1.8" />
+      <module name="tensquare_recruit" target="1.8" />
+      <module name="tensquare_search" target="1.8" />
+      <module name="tensquare_sms" target="1.8" />
+      <module name="tensquare_spit" target="1.8" />
+      <module name="tensquare_user" target="1.8" />
+      <module name="tensquare_web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

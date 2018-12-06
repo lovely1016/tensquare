@@ -1,0 +1,22 @@
+server:
+  port: 9010
+spring:
+  application:
+    name: tensquare-friend #指定服务名
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.211.130:3306/tensquare_friend?characterEncoding=utf-8
+    username: root
+    password: 123456
+  jpa:
+    database: MySQL
+    show-sql: true
+jwt:
+ config:
+    key: itcast
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:6868/eureka
+  instance:
+    prefer-ip-address: true
